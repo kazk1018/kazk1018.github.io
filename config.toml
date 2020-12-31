@@ -13,14 +13,21 @@ canonifyurls = true
     [languages.en]
         languageName = "English"
 
+        [languages.en.params]
+            description = "Kazuki Taniguchi's personal website"
+            keywords = "kazk1018,kazuki taniguchi,machine learning,ai"
+            info = "Machine Learning Engineer / Data Scientist"
+
     [languages.ja]
         languageName = "日本語"
 
+        [languages.ja.params]
+            description = "谷口和輝の個人ページ"
+            keywords = "kazk1018,kazuki taniguchi,machine learning,ai,谷口和輝,機械学習,人工知能"
+            info = "機械学習エンジニア/データサイエンティスト"
+
 [params]
     author = "Kazuki Taniguchi"
-    description = "Kazuki Taniguchi's personal website"
-    keywords = "blog,developer,personal"
-    info = ""
     avatarURL = "images/avatar.png"
 
     hideCredits = true
