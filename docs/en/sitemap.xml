@@ -18,6 +18,21 @@
   </url>
   
   <url>
+    <loc>https://kazk1018.github.io/en/job/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://kazk1018.github.io/job/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kazk1018.github.io/en/job/"
+                />
+  </url>
+  
+  <url>
     <loc>https://kazk1018.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"

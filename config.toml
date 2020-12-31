@@ -9,6 +9,8 @@ defaultContentLanguage = "ja"
 publishDir = "docs"
 canonifyurls = true
 
+googleAnalytics = "G-VBXRJ6CWV7"
+
 [languages]
     [languages.en]
         languageName = "English"
