@@ -1,4 +1,4 @@
-baseURL = "http://kazk1018.github.io/"
+baseURL = "https://kazk1018.github.io/"
 title = "Kazk1018"
 
 theme = "hugo-coder"
@@ -7,7 +7,6 @@ languageCode = "ja"
 defaultContentLanguage = "ja"
 
 publishDir = "docs"
-canonifyurls = true
 
 [languages]
     [languages.en]
