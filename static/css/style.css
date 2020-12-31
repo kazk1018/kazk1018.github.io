@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+.list ul {
+    margin: 0.8rem 0 0.8rem 0;
+}
+
+.list ul li {
+    margin: 0.8rem 0 0.8rem 0;
+}
+
+p {
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 3.2rem 0 1.6rem 0;
+}
+
+h1, h2 {
+    margin: 4.8rem 0 2.4rem 0;
+}
+
+/* override fonts that are defined in theme's scss files */
+/* TODO: use scss to understand codes easier */
+body {
+    font-family: "游ゴシック", "Yu Gothic", YuGothic, Merriweather, Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "游ゴシック", "Yu Gothic", YuGothic, Merriweather, Georgia, serif;
+}
+
+.list ul li .title {
+    font-family: "游ゴシック", "Yu Gothic", YuGothic, Merriweather, Georgia, serif;
+}
+
+.navigation a {
+    font-family: "游ゴシック", "Yu Gothic", YuGothic, Merriweather, Georgia, serif;
+}
+
+.navigation span {
+    font-family: "游ゴシック", "Yu Gothic", YuGothic, Merriweather, Georgia, serif;
+}
+
+.pagination {
+    font-family: "游ゴシック", "Yu Gothic", YuGothic, Merriweather, Georgia, serif;
+}

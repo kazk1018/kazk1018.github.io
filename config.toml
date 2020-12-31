@@ -1,0 +1,55 @@
+baseURL = "http://kazk1018.github.io/"
+title = "Kazk1018"
+
+theme = "hugo-coder"
+
+languageCode = "ja"
+defaultContentLanguage = "ja"
+
+publishDir = "docs"
+canonifyurls = true
+
+[languages]
+    [languages.en]
+        languageName = "English"
+
+    [languages.ja]
+        languageName = "日本語"
+
+[params]
+    author = "Kazuki Taniguchi"
+    description = "Kazuki Taniguchi's personal website"
+    keywords = "blog,developer,personal"
+    info = ""
+    avatarURL = "images/avatar.png"
+
+    hideCredits = true
+    hideCopyright = true
+
+    customCSS = ["css/style.css"]
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 1
+    url = "https://github.com/kazk1018/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter"
+    weight = 2
+    url = "https://twitter.com/kazk1018/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/kazk1018/"
+[[params.social]]
+    name = "Medium"
+    icon = "fa fa-medium"
+    weight = 4
+    url = "https://medium.com/@kazk1018"
+
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
