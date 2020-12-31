@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kazk1018</title>
-    <link>http://kazk1018.github.io/</link>
+    <link>https://kazk1018.github.io/</link>
     <description>Recent content on Kazk1018</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="http://kazk1018.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://kazk1018.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://kazk1018.github.io/about/</link>
+      <link>https://kazk1018.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kazk1018.github.io/about/</guid>
+      <guid>https://kazk1018.github.io/about/</guid>
       <description>About スキル   機械学習
  情報推薦 コンピュータビジョン 深層学習 反実仮想機械学習    開発言語
  プログラミング言語  Python, C++, Go, Scala, Swift, MATLAB   クラウド  Google Cloud, AWS   機械学習  TensorFlow, PyTorch, TFX, Apache Spark   データサイエンス  Numpy, Scipy, Jupyter, Pandas, Matplotlib      略歴   the Babels, Inc / 取締役 (2019 - 現在)

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kazk1018</title>
-    <link>http://kazk1018.github.io/en/</link>
+    <link>https://kazk1018.github.io/en/</link>
     <description>Recent content on Kazk1018</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="http://kazk1018.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language><atom:link href="https://kazk1018.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://kazk1018.github.io/en/about/</link>
+      <link>https://kazk1018.github.io/en/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kazk1018.github.io/en/about/</guid>
+      <guid>https://kazk1018.github.io/en/about/</guid>
       <description>About Skills   Machine Learning
  Recommendation Computer Vision Deep Learning Counterfactual Machine Learning    Development
  Programming Languages  Python, C++, Go, Scala, Swift, MATLAB   Cloud Platform  Google Cloud, AWS   Machine Learning  TensorFlow, PyTorch, TFX, Apache Spark   Data Science  Numpy, Scipy, Jupyter, Pandas, Matplotlib      Work Experience   the Babels, Inc / Director (2019 - Now)</description>

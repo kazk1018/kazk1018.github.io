@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://kazk1018.github.io/en/about/</loc>
+    <loc>https://kazk1018.github.io/en/about/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://kazk1018.github.io/about/"
+                href="https://kazk1018.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kazk1018.github.io/en/about/"
+                href="https://kazk1018.github.io/en/about/"
                 />
   </url>
   
   <url>
-    <loc>http://kazk1018.github.io/en/categories/</loc>
+    <loc>https://kazk1018.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://kazk1018.github.io/categories/"
+                href="https://kazk1018.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kazk1018.github.io/en/categories/"
+                href="https://kazk1018.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://kazk1018.github.io/en/</loc>
+    <loc>https://kazk1018.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://kazk1018.github.io/"
+                href="https://kazk1018.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kazk1018.github.io/en/"
+                href="https://kazk1018.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>http://kazk1018.github.io/en/tags/</loc>
+    <loc>https://kazk1018.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://kazk1018.github.io/tags/"
+                href="https://kazk1018.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://kazk1018.github.io/en/tags/"
+                href="https://kazk1018.github.io/en/tags/"
                 />
   </url>
   
