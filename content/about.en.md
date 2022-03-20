@@ -21,7 +21,11 @@
 
 ## Work Experience
 
-- **ExpData, LLC (2021 - 現在)**
+- **10X, Inc (2022 - present)**
+
+  - Development of Data Warehouse
+
+- **ExpData, LLC (2021 - present)**
 
   - Support for Data Utilization in Enterprises
   - Proof of Concept (ML)
