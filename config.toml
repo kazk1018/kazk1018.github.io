@@ -48,15 +48,15 @@ googleAnalytics = "G-VBXRJ6CWV7"
     weight = 2
     url = "https://twitter.com/kazk1018/"
 [[params.social]]
+    name = "Note"
+    icon = "fa fa-file-text"
+    weight = 3
+    url = "https://note.com/kazk1018"
+[[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin"
-    weight = 3
-    url = "https://www.linkedin.com/in/kazk1018/"
-[[params.social]]
-    name = "Medium"
-    icon = "fa fa-medium"
     weight = 4
-    url = "https://medium.com/@kazk1018"
+    url = "https://www.linkedin.com/in/kazk1018/"
 
 [[menu.main]]
   name = "About"
